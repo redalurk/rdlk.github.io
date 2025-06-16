@@ -1,6 +1,6 @@
-cs-navigation {
-  display: flex;
-  justify-content: space-between;
+cs-top-bar {
+  display: inline;
+  justify-content: center;
   align-items: center;
   padding: 10px 20px;
   background-color: #f8f9fa;
