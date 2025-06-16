@@ -1,5 +1,6 @@
 body {
-  background-image: url(assets\css\banner.png);
+  background-image: url(background.png);
+  background-position: absolute;
 }
 
 h1 {
