@@ -1374,9 +1374,7 @@
     justify-content: center;
     align-items: center;
   }
-  #banner-559 .cs-link:last-of-type {
-    /* remove the chevron on the last list item */
-  }
+ 
   #banner-559 .cs-link:last-of-type::after {
     display: none;
   }
