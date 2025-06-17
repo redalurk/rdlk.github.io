@@ -13,11 +13,18 @@ body {
 }
 
 h1 {
-  color: white;
+  color: rgb(31, 24, 24);
   text-align: center;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
+}
+
+
+.canva {
+  position: absolute;
+  top: 10;
+  min-width: 100%;
 }

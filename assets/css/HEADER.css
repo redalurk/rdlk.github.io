@@ -5,11 +5,12 @@
   font-family: Arial;
   display:flex;
   justify-content:center;
+  min-height: 100%;
 }
 
 /* Links inside the navbar */
 .navbar a {
-  float: left;
+  float:center;
   font-size: 16px;
   color: white;
   text-align: center;
