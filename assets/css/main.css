@@ -2,6 +2,7 @@ html {
     scroll-snap-type: y mandatory;
     -ms-overflow-style: none;
     scrollbar-width: none;
+    overscroll-behavior: none !important;
 }
 
 body {
